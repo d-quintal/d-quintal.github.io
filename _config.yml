@@ -16,14 +16,14 @@
 title: Dan Quintal
 email: dan@quintal.org
 description: >- # this means to ignore newlines until "baseurl:"
-  Not much here!
+  I'm a technology strategist and problem solver living in the Boston area.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 #facebook_username: quintal.d
 github_username:  d-quintal
 linkedin_username: dquintal
-#twitter_username: dquintal
+twitter_username: dquintal
 
 # Build settings
 markdown: kramdown

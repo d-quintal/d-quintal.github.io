@@ -15,7 +15,7 @@ NULLCMD = :
 srcdir = .
 topdir = /usr/local/Cellar/ruby/3.3.0/include/ruby-3.3.0
 hdrdir = $(topdir)
-arch_hdrdir = /usr/local/Cellar/ruby/3.3.0/include/ruby-3.3.0/x86_64-darwin22
+arch_hdrdir = /usr/local/Cellar/ruby/3.3.0/include/ruby-3.3.0/x86_64-darwin23
 PATH_SEPARATOR = :
 VPATH = $(srcdir):$(arch_hdrdir)/ruby:$(hdrdir)/ruby
 prefix = $(DESTDIR)/usr/local/Cellar/ruby/3.3.0
@@ -106,7 +106,7 @@ RUBY_VERSION_NAME = $(RUBY_BASE_NAME)-$(ruby_version)
 RUBYW_BASE_NAME = rubyw
 RUBY_BASE_NAME = ruby
 
-arch = x86_64-darwin22
+arch = x86_64-darwin23
 sitearch = $(arch)
 ruby_version = 3.3.0
 ruby = $(bindir)/$(RUBY_BASE_NAME)
