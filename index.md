@@ -34,4 +34,4 @@ I am available for large and small engagements, onsite and remote, in the Boston
 - Printer, scanner and other peripheral installation and troubleshooting
 - Training and education—for adults and kids, both practical and fun
 
-### Contact me today for a no-cost initial consultation to determine your needs and the appropriate next steps: dan@quintal.org or (617) 407-9797.
+### Contact me today for a no-cost initial consultation to determine your needs and the appropriate next steps: <dan@quintal.org> or (617) 407-9797.
