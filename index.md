@@ -5,7 +5,7 @@
 layout: home
 ---
 
-#
+# Quintal Consulting
 
 ## My goal is to get your technology to work for you, making your life and your work simpler and more efficient.
 
