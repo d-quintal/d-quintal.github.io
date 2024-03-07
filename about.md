@@ -15,6 +15,6 @@ Technology that is unintuitive, unpleasant to use, aggravating, intrusive, unrel
 My approach to technology infrastructure involves constantly evaluating actual risk against actual aggravation imposed by risk mitigation measures, constantly evaluating the cost of usability improvements against the value of people's time, and constantly asking why:
 
 - Why do we need this new thing?
-- Why do we still need this old thing?
+- Why do we _still_ need this old thing?
 - Why do I feel like I spend half my day typing passwords into login screens?
 - Why does the help desk tell me to ignore my browser's dire warnings about the security of our internal websites?
