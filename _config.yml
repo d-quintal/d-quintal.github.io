@@ -16,7 +16,7 @@
 title: Dan Quintal
 email: dan@quintal.org
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm a technology strategist and problem solver living in the Boston area.
+  A technology strategist and problem solver living in the Boston area.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
