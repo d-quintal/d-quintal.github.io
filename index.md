@@ -5,9 +5,9 @@
 layout: home
 ---
 
-# Quintal Consulting
+#
 
-### My goal is to get your technology to work for you, making your life and your work simpler and more efficient.
+## My goal is to get your technology to work for you, making your life and your work simpler and more efficient.
 
 I am available for large and small engagements, onsite and remote, in the Boston area and worldwide. I work with business clients and in residential settings.
 
