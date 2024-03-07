@@ -5,9 +5,11 @@
 layout: home
 ---
 
-# My goal is to get your technology to work for you, making your life and your work simpler and more efficient.
+# My goal is to get your technology to work for you
 
-## I am available for large and small engagements, onsite and remote, in the Boston area and worldwide. I work with business clients and in residential settings.
+## making your life and your work simpler and more efficient.
+
+### I am available for large and small engagements, onsite and remote, in the Boston area and worldwide. I work with business clients and in residential settings.
 
 ### Sample business services:
 
@@ -31,4 +33,4 @@ layout: home
 - Printer, scanner and other peripheral installation and troubleshooting
 - Training and education—for adults and kids
 
-# Contact me today for a no-cost initial consultation to determine your needs and the appropriate next steps.
+### Contact me today for a no-cost initial consultation to determine your needs and the appropriate next steps.
